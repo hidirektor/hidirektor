@@ -7,6 +7,8 @@
 
 [<img src="https://novatorem-q9ljzgfxx.vercel.app/api/spotify-playing" alt="hidirektor Spotify Playing" width="350" />](https://open.spotify.com/user/lordsofkeci)
 
+[![Spotify](https://hidirektor.vercel.app/api/spotify)](https://open.spotify.com/user/lordsofkeci)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
