@@ -1,6 +1,6 @@
 ### Hi there, I'm Halil 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hidirektor?color=1DA1F2&logo=Twitter&style=for-the-badge)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/hidirektor?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/hidirektor?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ### Spotify Playing 🎧
 
