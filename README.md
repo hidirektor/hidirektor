@@ -1,7 +1,7 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hidirektor?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/hidirektor?color=1DA1F2&logo=Twitter&style=for-the-badge)]
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
