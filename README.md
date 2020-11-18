@@ -2,7 +2,10 @@
 
 <a href="https://instagram.com/hidirektor">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>[![Twitter Follow](https://img.shields.io/twitter/follow/hidirektor?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/hidirektor?color=1DA1F2&logo=Twitter&style=for-the-badge)
+  </a>
+<a href="">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 
 ### Spotify Playing 🎧
 
