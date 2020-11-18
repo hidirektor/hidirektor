@@ -7,6 +7,14 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
+## Cyclist, Developer, Engineer and Freelancer!!
+
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
+
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem-q9ljzgfxx.vercel.app/api/spotify-playing" alt="hidirektor Spotify Playing" width="350" />](https://open.spotify.com/user/lordsofkeci)
