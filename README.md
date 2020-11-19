@@ -16,8 +16,6 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-git-master.hidirektor.vercel.app/api/spotify-playing" alt="Lordsofkeci Spotify Playing" width="350" />](https://open.spotify.com/user/lordsofkeci)
-
 [![Spotify](https://novatorem-git-master.hidirektor.vercel.app/api/spotify)](https://open.spotify.com/user/lordsofkeci)
 
 
