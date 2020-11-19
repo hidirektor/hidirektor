@@ -9,11 +9,10 @@
 
 ## Cyclist, Developer, Engineer and Freelancer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Learning everything about science, tech and engineering :))
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 Lifetime Goals: Contribute more to Open Source projects or just Projects 🤣
+- ⚡ Fun fact: 2 wheel lover...
 
 ### Spotify Playing 🎧
 
