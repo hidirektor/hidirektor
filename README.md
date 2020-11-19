@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://hidirektor.vercel.app/api/spotify-playing" alt="Lordsofkeci Spotify Playing" width="350" />](https://open.spotify.com/user/lordsofkeci)
+[<img src="https://https://novatorem-black-rho.vercel.app/api/spotify-playing" alt="Lordsofkeci Spotify Playing" width="350" />](https://open.spotify.com/user/lordsofkeci)
 
 
 ### Connect with me:
