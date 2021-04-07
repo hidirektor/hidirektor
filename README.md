@@ -14,6 +14,16 @@
 - 🥅 Lifetime Goals: Contribute more to Open Source projects or just Projects 🤣
 - ⚡ Fun fact: 2 wheel lover...
 
+### Completed Jobs 💻
+## Wordpress:
+- https://designsusu.com (WooCommerce)
+- https://lanorra.com (WooCommerce)
+- https://bemakgrup.com (Corporate Website)
+- https://tarzinbende.com (WooCommerce)
+## OpenCart:
+- https://manavkapimda.com
+- https://modaland.az
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-git-master.hidirektor.vercel.app/api/spotify)](https://open.spotify.com/user/lordsofkeci)
