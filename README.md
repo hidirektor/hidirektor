@@ -23,7 +23,7 @@
 - https://manavkapimda.com
 - https://modaland.az
 ## Custom:
-- - https://salvadorcoffeefood.com (HTML & CSS)
+- <a href="https://salvadorcoffeefood.com" target="_blank">Salvador Coffee</a>
 
 ### Spotify Playing 🎧
 
@@ -53,7 +53,7 @@
 
 <br /><a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-<br/><a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> </a></p>
+<br/><a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hidirektor&show_icons=true&locale=en&layout=compact" alt="hidirektor" /></p>
 
@@ -63,7 +63,7 @@
 <br />
 
 ---
-[website]: https://elektropat.org
+[website]: https://hidirektor.com.tr
 [twitter]: https://twitter.com/hidirektor
 [instagram]: https://instagram.com/hidirektor
 [linkedin]: https://www.linkedin.com/in/halil-ibrahim-direktör-253800192/
