@@ -22,7 +22,7 @@
 - <a href="https://modaland.az" target="_blank">Modaland</a>
 ## Custom:
 - <a href="https://salvadorcoffeefood.com" target="_blank">Salvador Coffee</a>
-- - <a href="https://cooklaexclusive.com" target="_blank">Cookla Exclusive</a>
+- <a href="https://cooklaexclusive.com" target="_blank">Cookla Exclusive</a>
 
 ### Spotify Playing 🎧
 
