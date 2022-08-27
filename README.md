@@ -20,6 +20,7 @@
 ## OpenCart:
 - <a href="https://manavkapimda.com" target="_blank">Manav Kapımda</a>
 - <a href="https://modaland.az" target="_blank">Modaland</a>
+- <a href="https://hedizu.com" target="_blank">Hedizu (Optimization)</a>
 ## Custom:
 - <a href="https://salvadorcoffeefood.com" target="_blank">Salvador Coffee</a>
 - <a href="https://cooklaexclusive.com" target="_blank">Cookla Exclusive</a>
