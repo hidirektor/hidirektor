@@ -27,16 +27,6 @@
 - <a href="https://salvadorcoffeefood.com" target="_blank">Salvador Coffee</a>
 - <a href="https://cooklaexclusive.com" target="_blank">Cookla Exclusive</a>
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-git-master.hidirektor.vercel.app/api/spotify)](https://open.spotify.com/user/lordsofkeci)
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 ---
 [website]: https://hidirektor.com.tr
 [instagram]: https://instagram.com/hidirektor
