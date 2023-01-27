@@ -19,6 +19,7 @@
 - <a href="https://yst.com.tr" target="_blank">YST Elektrik (WooCommerce)</a>
 - <a href="https://ertanmusic.com" target="_blank">Ertan Music (WooCommerce)</a>
 - <a href="https://serimama.com" target="_blank">Seri Mama (WooCommerce)</a>
+- <a href="https://35akustik.com" target="_blank">35Akustik (Catalog)</a>
 ## OpenCart:
 - <a href="https://manavkapimda.com" target="_blank">Manav Kapımda</a>
 - <a href="https://modaland.az" target="_blank">Modaland</a>
