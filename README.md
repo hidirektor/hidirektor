@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
 
-## Embedded Software Developer !!
+## Software Developer !!
 
 - 🔭 Learning everything about science, tech and engineering :))
 - 👯 I’m looking to collaborate with other content creators
