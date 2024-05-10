@@ -15,21 +15,17 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello.gif" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI);
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 👨🏽‍💻 I’m currently working on [Up Cortex Mobile](https://github.com/hidirektor/upcortex-mobile-android);
+- 🌱 I’m currently learning Micro Service's Architecture;
+- 🤔 I’m looking for help with gRPC 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- ⚡️ Fun-Fact: I have a degree in Mechatronics Engineering;
+- 📫 How to reach me: hidirektor@gmail.com;
 
 **Languages and Tools:**
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="hidirektor's github stats" src="https://github-readme-stats.vercel.app/api?username=hidirektor&show_icons=true&hide_border=true" />
@@ -63,10 +59,13 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/hidirektor/hidirektor.svg" />
 </p>
 
+<!--
 ## Support me
-<!-- Your support, if you have it 
+ Your support, if you have it 
 I created these assets, feel free to use them.
 -->
+
+<!--
 <p align="center">
   <a href="https://www.patreon.com/onimur" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
@@ -78,17 +77,15 @@ I created these assets, feel free to use them.
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
+-->
 
 ---
 
-<!-- Its main projects -->
 <p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
+  <a href="https://github.com/hidirektor/upcortex-mobile-android">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hidirektor&repo=upcortex-mobile-android" />
   </a>
   <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hidirektor&repo=upcortex-mobile-ios" />
   </a>
 </p>
-
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
