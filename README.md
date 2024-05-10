@@ -1,58 +1,94 @@
-## Hey, [Haany here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<!-- Your title -->
+## Hi, I'm Halil İbrahim DİREKTÖR, a Developer 🚀 from Turkey.
 
-<img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hidirektor" alt="hidirektor" /> </p>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hidirektor)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hidirektor/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/hidirektor/)
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+&nbsp;
 
-## :computer: Technologies I Love
-* iOS Development via Swift
-* Android Development via Java
-* REST 
-* Frontend and Backend Web Development
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hidirektor&layout=compact">
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-## Programming Languages
-<img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/html.svg' width='30'/> <img src='https://github.com/hidirektor/hidirektor/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/sql.svg' width='30'/> 
+- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
+- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI);
+- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
+- 🤔 I’m looking for help with Design Pattern 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I have a degree in civil engineering;
+- 📫 How to reach me: murillo_comino@hotmail.com;
 
-## Technologies I Use
- <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/hidirektor/hidirektor/blob/master/images/react.svg' width='33'/>
+**Languages and Tools:**
 
-## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-		current_work = 'Writing code'
-		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Vancouver_Canada()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="hidirektor's github stats" src="https://github-readme-stats.vercel.app/api?username=hidirektor&show_icons=true&hide_border=true" />
+  </a>
 
-## Current Works
-* Breaking into Cybersec !!
-* I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
 
-## Other Stuff
-- :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
-- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/hidirektor/hidirektor.svg" />
+</p>
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=hidirektor&show_icons=true&hide=[%22issues%22])
- 
- 
+## Support me
+<!-- Your support, if you have it 
+I created these assets, feel free to use them.
+-->
+<p align="center">
+  <a href="https://www.patreon.com/onimur" target="_blank">
+    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
+  </a>
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
+      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+  </a>
+</p>
+
+---
+
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
+  </a>
+  <a href="https://github.com/onimur/circleci-github-changelog-generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
+  </a>
+</p>
+
+<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
