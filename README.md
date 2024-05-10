@@ -8,7 +8,7 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_white.gif" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello.webm" />
 
 - 👨🏽‍💻 I’m currently working on [Up Cortex Mobile](https://github.com/hidirektor/upcortex-mobile-android);
 - 🌱 I’m currently learning Micro Service's Architecture;
