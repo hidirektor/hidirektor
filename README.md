@@ -49,12 +49,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/hidirektor/upcortex-mobile-android">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hidirektor&repo=upcortex-mobile-android" />
-  </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hidirektor&repo=upcortex-mobile-ios" />
-  </a>
-</p>
