@@ -11,8 +11,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" />
 
 - 👨🏽‍💻 I’m currently working on [Up Cortex Mobile](https://github.com/hidirektor/upcortex-mobile-android);
-- 🌱 I’m currently learning Micro Service's Architecture;
-- 🤔 I’m looking for help with gRPC 😭;
+- 🌱 I’m currently learning RESTful on Rust (with SeaORM and Actix);
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Mechatronics Engineering;
 - 📫 How to reach me: hidirektor@gmail.com;
