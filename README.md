@@ -38,9 +38,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://hidirektor.com.tr/assets/images/skills/stm32.svg"></code>
-<code><img width="10%" src="https://hidirektor.com.tr/assets/images/skills/freertos.png"></code>
-<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg"></code>
