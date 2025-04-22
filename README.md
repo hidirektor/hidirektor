@@ -10,7 +10,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" />
 
-- 👨🏽‍💻 I’m currently working on [Complete IoT Solution](https://github.com/hidirektor/iot-solution-backend);
+- 👨🏽‍💻 Current Team [Werover](https://github.com/searoversoftware);
 - 🌱 I’m currently learning RESTful on Rust (with SeaORM and Actix);
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Mechatronics Engineering;
