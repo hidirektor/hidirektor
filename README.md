@@ -1,6 +1,6 @@
-## Hi, I'm Halil İbrahim DİREKTÖR, a Developer 🚀 from Turkey.
+## Hi, I'm Halil İbrahim DİREKTÖR, a Developer 🚀 from Earth.
 
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hidirektor.com.tr)
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hidirektor.dev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hidirektor/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/hidirektor/)
 
