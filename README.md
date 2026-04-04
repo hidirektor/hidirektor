@@ -1,16 +1,16 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" alt="Hello" />
 </div>
-# Hi, I'm Halil İbrahim Direktör
+<h1 align="center">Hi, I'm Halil İbrahim Direktör</h1>
 
-<p>
-I build scalable backend systems, mobile applications, and IoT-powered products with clean architecture and real-world impact.
+<p align="center">
+I build scalable backend, mobile, and IoT products with clean architecture and real-world impact.
 </p>
 
-<p>
-  <a href="https://hidirektor.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/hidirektor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/hidirektor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<p align="center">
+  <a href="https://hidirektor.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hidirektor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/hidirektor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
@@ -34,13 +34,17 @@ I build scalable backend systems, mobile applications, and IoT-powered products 
 - **[fpp](https://github.com/hidirektor/fpp)**
 - **[fprime](https://github.com/hidirektor/fprime)**
 
-## The Scientific and Technological Research Council of Türkiye Projects
+## Projects under The Scientific and Technological Research Council of Türkiye Programs
 
-### 2242 | DeepCompressLink
+### TÜBİTAK 2242 | DeepCompressLink | Support Status: Pending | Project Status: Ongoing
 - **Title:** Delay-Tolerant Adaptive Data Compression Protocol for CubeSat Telemetry
 - **Summary:** I am designing a DTN-compatible, stateless, adaptive compression protocol for CubeSat and deep-space communication, and validating it in SimPy-based discrete-event simulations across LEO, lunar orbit, and Mars scenarios.
 
-### 2209-B | CompressM2M
+### TEKNOFEST | ONYX Thermal-Hydraulic Analysis Software | Support Status: Pending | Project Status: Ongoing
+- **Title:** Thermal-Hydraulic Analysis Software for SMR/MMR Cooling Loops and Reactor Core
+- **Summary:** As Team ONYX, we are developing a C++-based simulation engine with a Node.js (MQTT/Modbus) backend, Redis caching, and React Native/web dashboards to simulate core temperature distribution, pressure drop, flow rate, and power output, then validate prototype scenarios against IAEA/OECD benchmarks.
+
+### TÜBİTAK 2209-B | CompressM2M | Support Status: Pending | Project Status: Ongoing
 - **Title:** Adaptive M2M Data Compression Protocol for Low-Power IoT Devices
 - **Summary:** I am building a lightweight, lossless, adaptive compression protocol on ESP32-S3 to reduce payload size and energy usage in LoRaWAN/NB-IoT based M2M communication.
 
