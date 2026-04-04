@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" alt="Hello" />
 </p>
 
-# Hi, I'm Halil Ibrahim Direktor
+# Hi, I'm Halil İbrahim Direktör
 
 <p>
 I build scalable backend systems, mobile applications, and IoT-powered products with clean architecture and real-world impact.
@@ -14,30 +14,27 @@ I build scalable backend systems, mobile applications, and IoT-powered products 
   <a href="https://www.instagram.com/hidirektor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-### Medium Articles
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/2" alt="Medium post 3"  />
-  </a>
-</div>
-
 ---
 
 ## About Me
 
-- Currently part of **[Werover](https://github.com/searoversoftware)**
+- Currently on the software team at **[Werover](https://github.com/searoversoftware)**
 - Learning RESTful API development with **Rust**, **SeaORM**, and **Actix**
 - Focused on backend engineering, distributed systems, and product-minded development
 - Ask me anything, happy to help and collaborate
 - Mechatronics Engineering graduate
 - Reach me at **hidirektor@gmail.com**
+
+## Open Source Projects
+
+- **[rust-backend-api](https://github.com/hidirektor/rust-backend-api)**
+- **[onyx-backend-api](https://github.com/hidirektor/onyx-backend-api)**
+
+### Contributed Projects
+
+- **[trajdata](https://github.com/hidirektor/trajdata)**
+- **[fpp](https://github.com/hidirektor/fpp)**
+- **[fprime](https://github.com/hidirektor/fprime)**
 
 
 ---
@@ -79,6 +76,20 @@ I build scalable backend systems, mobile applications, and IoT-powered products 
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
 </p>
+
+### Medium Articles
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/2" alt="Medium post 3"  />
+  </a>
+</div>
 
 ---
 
