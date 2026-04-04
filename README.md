@@ -34,19 +34,41 @@ I build scalable backend, mobile, and IoT products with clean architecture and r
 - **[fpp](https://github.com/hidirektor/fpp)**
 - **[fprime](https://github.com/hidirektor/fprime)**
 
-## Projects under The Scientific and Technological Research Council of Türkiye Programs
+## Featured Projects
 
-### TÜBİTAK 2242 | DeepCompressLink | Support Status: Pending | Project Status: Ongoing
-- **Title:** Delay-Tolerant Adaptive Data Compression Protocol for CubeSat Telemetry
-- **Summary:** I am designing a DTN-compatible, stateless, adaptive compression protocol for CubeSat and deep-space communication, and validating it in SimPy-based discrete-event simulations across LEO, lunar orbit, and Mars scenarios.
+<div align="center">
 
-### TEKNOFEST | ONYX Thermal-Hydraulic Analysis Software | Support Status: Pending | Project Status: Ongoing
-- **Title:** Thermal-Hydraulic Analysis Software for SMR/MMR Cooling Loops and Reactor Core
-- **Summary:** As Team ONYX, we are developing a C++-based simulation engine with a Node.js (MQTT/Modbus) backend, Redis caching, and React Native/web dashboards to simulate core temperature distribution, pressure drop, flow rate, and power output, then validate prototype scenarios against IAEA/OECD benchmarks.
+<table>
+  <tr>
+    <td align="center">
+      <h3>TÜBİTAK 2242 | DeepCompressLink</h3>
+      <img src="https://img.shields.io/badge/Support_Status-Pending-orange?style=flat-square" alt="Support Status: Pending" />
+      <img src="https://img.shields.io/badge/Project_Status-Ongoing-brightgreen?style=flat-square" alt="Project Status: Ongoing" />
+      <p><strong>Title:</strong> Delay-Tolerant Adaptive Data Compression Protocol for CubeSat Telemetry</p>
+      <p><strong>Summary:</strong> I am designing a DTN-compatible, stateless compression protocol for CubeSat and deep-space telemetry, and validating it in SimPy-based simulations across LEO, lunar orbit, and Mars scenarios.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>TEKNOFEST | ONYX Thermal-Hydraulic Analysis Software</h3>
+      <img src="https://img.shields.io/badge/Support_Status-Pending-orange?style=flat-square" alt="Support Status: Pending" />
+      <img src="https://img.shields.io/badge/Project_Status-Ongoing-brightgreen?style=flat-square" alt="Project Status: Ongoing" />
+      <p><strong>Title:</strong> Thermal-Hydraulic Analysis Software for SMR/MMR Cooling Loops and Reactor Core</p>
+      <p><strong>Summary:</strong> As Team ONYX, we are building a C++ simulation engine with a Node.js backend, Redis caching, and web/mobile dashboards to analyze temperature, pressure drop, flow rate, and power output, then validate the prototype against IAEA/OECD benchmarks.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>TÜBİTAK 2209-B | CompressM2M</h3>
+      <img src="https://img.shields.io/badge/Support_Status-Pending-orange?style=flat-square" alt="Support Status: Pending" />
+      <img src="https://img.shields.io/badge/Project_Status-Ongoing-brightgreen?style=flat-square" alt="Project Status: Ongoing" />
+      <p><strong>Title:</strong> Adaptive M2M Data Compression Protocol for Low-Power IoT Devices</p>
+      <p><strong>Summary:</strong> I am building a lightweight, lossless, adaptive compression protocol on ESP32-S3 to reduce payload size and energy usage in LoRaWAN and NB-IoT based M2M communication.</p>
+    </td>
+  </tr>
+</table>
 
-### TÜBİTAK 2209-B | CompressM2M | Support Status: Pending | Project Status: Ongoing
-- **Title:** Adaptive M2M Data Compression Protocol for Low-Power IoT Devices
-- **Summary:** I am building a lightweight, lossless, adaptive compression protocol on ESP32-S3 to reduce payload size and energy usage in LoRaWAN/NB-IoT based M2M communication.
+</div>
 
 
 ---
