@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" alt="Hello" width="720" />
+  <img src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" alt="Hello" />
 </div>
 # Hi, I'm Halil İbrahim Direktör
 
@@ -17,12 +17,11 @@ I build scalable backend systems, mobile applications, and IoT-powered products 
 
 ## About Me
 
-- Currently on the software team at **[Werover](https://github.com/searoversoftware)**
-- Learning RESTful API development with **Rust**, **SeaORM**, and **Actix**
-- Focused on backend engineering, distributed systems, and product-minded development
-- Ask me anything, happy to help and collaborate
-- Mechatronics Engineering graduate
-- Reach me at **hidirektor@gmail.com**
+- Software Team Lead at **[Werover](https://github.com/searoversoftware)**
+- I build backend + mobile + IoT products that solve real-world problems
+- I enjoy scalable systems, clean APIs, and energy-efficient engineering
+- From STM32 boards to cloud services, I like shipping end-to-end
+- Always open to collaboration: **hidirektor@gmail.com**
 
 ## Open Source Projects
 
@@ -35,21 +34,15 @@ I build scalable backend systems, mobile applications, and IoT-powered products 
 - **[fpp](https://github.com/hidirektor/fpp)**
 - **[fprime](https://github.com/hidirektor/fprime)**
 
-## TÜBİTAK Projects
+## The Scientific and Technological Research Council of Türkiye Projects
 
-### 2209-B | DeepCompressLink
-- **Project Area:** Defense, Space and Aviation
-- **Thematic Area:** Algorithm Design and Applications
-- **Title:** CubeSAT Telemetrisi için Gecikme Toleranslı Adaptif Veri Sıkıştırma Protokolü
-- **Summary:** CubeSat ve derin uzay haberleşmesinde DTN uyumlu, stateless ve adaptif bir sıkıştırma protokolü tasarlıyor ve SimPy tabanlı ayrık-olay simülasyonla LEO, Ay ve Mars senaryolarında doğruluyorum.
-- **Key Targets / Results:** `>%55` sıkıştırma oranı, LEO pass-window verimliliğinde `+%40`, paket bütünlüğünde `~%99.5`, embedded-equivalent bellek hedefi `<=16 KB RAM`.
-- **Core Technologies:** Python, SimPy, NumPy, DTN (RFC 9171), CCSDS 121.0 baseline karşılaştırması.
+### 2242 | DeepCompressLink
+- **Title:** Delay-Tolerant Adaptive Data Compression Protocol for CubeSat Telemetry
+- **Summary:** I am designing a DTN-compatible, stateless, adaptive compression protocol for CubeSat and deep-space communication, and validating it in SimPy-based discrete-event simulations across LEO, lunar orbit, and Mars scenarios.
 
 ### 2209-B | CompressM2M
-- **Title:** Düşük Güçlü IoT Cihazları için Adaptif M2M Veri Sıkıştırma Protokolü
-- **Summary:** LoRaWAN/NB-IoT tabanlı M2M iletişiminde veri boyutunu ve enerji tüketimini azaltmak için ESP32-S3 üzerinde çalışan hafif, kayıpsız ve adaptif bir sıkıştırma protokolü geliştiriyorum.
-- **Key Targets / Results:** veri hacminde `~%70` azalma, enerji tüketiminde `~%35` düşüş, batarya ömründe `2-3x` artış, hedef kaynak kullanımı `<8 KB RAM` ve `<60 KB Flash`.
-- **Core Technologies:** Embedded C, FreeRTOS, ESP32-S3, LoRaWAN, Python tabanlı simülasyon, INA219 enerji ölçümü.
+- **Title:** Adaptive M2M Data Compression Protocol for Low-Power IoT Devices
+- **Summary:** I am building a lightweight, lossless, adaptive compression protocol on ESP32-S3 to reduce payload size and energy usage in LoRaWAN/NB-IoT based M2M communication.
 
 
 ---
@@ -85,6 +78,7 @@ I build scalable backend systems, mobile applications, and IoT-powered products 
 <p><strong>Programs I Use</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Apidog-2A7FFF?style=flat-square" alt="Apidog" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/WebStorm-111111?style=flat-square&logo=webstorm" alt="WebStorm" />
   <img src="https://img.shields.io/badge/CLion-111111?style=flat-square&logo=clion" alt="CLion" />
   <img src="https://img.shields.io/badge/DataGrip-111111?style=flat-square&logo=datagrip" alt="DataGrip" />
