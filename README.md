@@ -37,13 +37,14 @@ I build scalable backend systems, reliable APIs, and practical products with cle
 
 ---
 
-## Profile Views
+<br />
 
-<p>
+<p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/hidirektor/hidirektor.svg" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/hidirektor?style=flat-square&label=Followers" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/hidirektor?style=flat-square&label=Stars" />
 </p>
 
----
 
 <img src="https://raw.githubusercontent.com/hidirektor/hidirektor/output/snake.svg" alt="Snake animation" />
 
