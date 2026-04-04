@@ -36,6 +36,22 @@ I build scalable backend systems, mobile applications, and IoT-powered products 
 - **[fpp](https://github.com/hidirektor/fpp)**
 - **[fprime](https://github.com/hidirektor/fprime)**
 
+## TÜBİTAK Projects
+
+### 2209-B | DeepCompressLink
+- **Project Area:** Defense, Space and Aviation
+- **Thematic Area:** Algorithm Design and Applications
+- **Title:** CubeSAT Telemetrisi için Gecikme Toleranslı Adaptif Veri Sıkıştırma Protokolü
+- **Summary:** CubeSat ve derin uzay haberleşmesinde DTN uyumlu, stateless ve adaptif bir sıkıştırma protokolü tasarlıyor ve SimPy tabanlı ayrık-olay simülasyonla LEO, Ay ve Mars senaryolarında doğruluyorum.
+- **Key Targets / Results:** `>%55` sıkıştırma oranı, LEO pass-window verimliliğinde `+%40`, paket bütünlüğünde `~%99.5`, embedded-equivalent bellek hedefi `<=16 KB RAM`.
+- **Core Technologies:** Python, SimPy, NumPy, DTN (RFC 9171), CCSDS 121.0 baseline karşılaştırması.
+
+### 2209-B | CompressM2M
+- **Title:** Düşük Güçlü IoT Cihazları için Adaptif M2M Veri Sıkıştırma Protokolü
+- **Summary:** LoRaWAN/NB-IoT tabanlı M2M iletişiminde veri boyutunu ve enerji tüketimini azaltmak için ESP32-S3 üzerinde çalışan hafif, kayıpsız ve adaptif bir sıkıştırma protokolü geliştiriyorum.
+- **Key Targets / Results:** veri hacminde `~%70` azalma, enerji tüketiminde `~%35` düşüş, batarya ömründe `2-3x` artış, hedef kaynak kullanımı `<8 KB RAM` ve `<60 KB Flash`.
+- **Core Technologies:** Embedded C, FreeRTOS, ESP32-S3, LoRaWAN, Python tabanlı simülasyon, INA219 enerji ölçümü.
+
 
 ---
 
