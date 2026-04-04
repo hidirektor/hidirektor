@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" alt="Hello" />
-</p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" alt="Hello" width="720" />
+</div>
 # Hi, I'm Halil İbrahim Direktör
 
 <p>
