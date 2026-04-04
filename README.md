@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" alt="Hello" />
+</p>
+
 # Hi, I'm Halil Ibrahim Direktor
 
-<h3>Developer from Earth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="Waving hand" /></h3>
-
 <p>
-I build scalable backend systems, reliable APIs, and practical products with clean architecture.
+I build scalable backend systems, mobile applications, and IoT-powered products with clean architecture and real-world impact.
 </p>
 
 <p>
@@ -12,11 +14,23 @@ I build scalable backend systems, reliable APIs, and practical products with cle
   <a href="https://www.instagram.com/hidirektor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
+### Medium Articles
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hidirektor/2" alt="Medium post 3"  />
+  </a>
+</div>
+
 ---
 
 ## About Me
-
-<img width="52%" align="right" alt="Hello" src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" />
 
 - Currently part of **[Werover](https://github.com/searoversoftware)**
 - Learning RESTful API development with **Rust**, **SeaORM**, and **Actix**
@@ -25,7 +39,6 @@ I build scalable backend systems, reliable APIs, and practical products with cle
 - Mechatronics Engineering graduate
 - Reach me at **hidirektor@gmail.com**
 
-<br clear="right"/>
 
 ---
 
