@@ -1,53 +1,49 @@
-## Hi, I'm Halil İbrahim DİREKTÖR, a Developer 🚀 from Earth.
+# Hi, I'm Halil Ibrahim Direktor
 
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hidirektor.dev)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hidirektor/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/hidirektor/)
-
-&nbsp;
-
-**Talking about Personal Stuffs:**
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" />
-
-- 👨🏽‍💻 Current Team [Werover](https://github.com/searoversoftware);
-- 🌱 I’m currently learning RESTful on Rust (with SeaORM and Actix);
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in Mechatronics Engineering;
-- 📫 How to reach me: hidirektor@gmail.com;
-
-**Languages and Tools:**
+<h3>Developer from Earth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="Waving hand" /></h3>
 
 <p>
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
+I build scalable backend systems, reliable APIs, and practical products with clean architecture.
 </p>
 
-<p align="center">
+<p>
+  <a href="https://hidirektor.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hidirektor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/hidirektor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+---
+
+## About Me
+
+<img width="52%" align="right" alt="Hello" src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" />
+
+- Currently part of **[Werover](https://github.com/searoversoftware)**
+- Learning RESTful API development with **Rust**, **SeaORM**, and **Actix**
+- Focused on backend engineering, distributed systems, and product-minded development
+- Ask me anything, happy to help and collaborate
+- Mechatronics Engineering graduate
+- Reach me at **hidirektor@gmail.com**
+
+<br clear="right"/>
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,swift,rust,nodejs,angular,spring,docker,git,gradle,mysql,postgres,mongodb,redis,rabbitmq,android,apple" alt="Tech stack icons" />
+</p>
+
+---
+
+## Profile Views
+
+<p>
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/hidirektor/hidirektor.svg" />
 </p>
 
 ---
+
+<img src="https://raw.githubusercontent.com/hidirektor/hidirektor/output/snake.svg" alt="Snake animation" />
+
