@@ -43,7 +43,8 @@ I build scalable backend systems, reliable APIs, and practical products with cle
 
 <p><strong>Mobile & Embedded</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,apple,arduino" alt="Mobile and embedded" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,apple,c" alt="Mobile and embedded" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square" alt="STM32" />
 </p>
 
 <p><strong>Data & Messaging</strong></p>
@@ -54,6 +55,16 @@ I build scalable backend systems, reliable APIs, and practical products with cle
 <p><strong>Cloud, DevOps & Tools</strong></p>
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,githubactions,git,linux" alt="Cloud and devops" />
+</p>
+
+<p><strong>Programs I Use</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Apidog-2A7FFF?style=flat-square" alt="Apidog" />
+  <img src="https://img.shields.io/badge/WebStorm-111111?style=flat-square&logo=webstorm" alt="WebStorm" />
+  <img src="https://img.shields.io/badge/CLion-111111?style=flat-square&logo=clion" alt="CLion" />
+  <img src="https://img.shields.io/badge/DataGrip-111111?style=flat-square&logo=datagrip" alt="DataGrip" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
 </p>
 
 ---
