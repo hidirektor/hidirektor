@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/hidirektor/hidirektor/main/assets/hello_blue_text.gif" alt="Hello" />
 </div>
-<h1 align="center">Hi, I'm Halil İbrahim Direktör</h1>
+<h1 align="center">I'm Halil İbrahim Direktör</h1>
 
 <p align="center">
 I build scalable backend, mobile, and IoT products with clean architecture and real-world impact.
