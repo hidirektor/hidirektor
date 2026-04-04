@@ -31,8 +31,29 @@ I build scalable backend systems, reliable APIs, and practical products with cle
 
 ## Tech Stack
 
+<p><strong>Languages</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,swift,rust,nodejs,angular,spring,docker,git,gradle,mysql,postgres,mongodb,redis,rabbitmq,android,apple" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,js,ts,cpp,rust" alt="Languages" />
+</p>
+
+<p><strong>Backend & Frontend</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,react,nextjs,angular" alt="Backend and frontend" />
+</p>
+
+<p><strong>Mobile & Embedded</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,apple,arduino" alt="Mobile and embedded" />
+</p>
+
+<p><strong>Data & Messaging</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,rabbitmq" alt="Data and messaging" />
+</p>
+
+<p><strong>Cloud, DevOps & Tools</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,githubactions,git,linux" alt="Cloud and devops" />
 </p>
 
 ---
@@ -43,8 +64,6 @@ I build scalable backend systems, reliable APIs, and practical products with cle
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/hidirektor/hidirektor.svg" />
   <img alt="Followers" src="https://img.shields.io/github/followers/hidirektor?style=flat-square&label=Followers" />
   <img alt="Stars" src="https://img.shields.io/github/stars/hidirektor?style=flat-square&label=Stars" />
+  <br />
+  <img src="https://raw.githubusercontent.com/hidirektor/hidirektor/output/snake.svg" alt="Snake animation" />
 </p>
-
-
-<img src="https://raw.githubusercontent.com/hidirektor/hidirektor/output/snake.svg" alt="Snake animation" />
-
