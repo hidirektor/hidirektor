@@ -57,15 +57,6 @@ I build scalable backend, mobile, and IoT products with clean architecture and r
       <p><strong>Summary:</strong> As Team ONYX, we are building a C++ simulation engine with a Node.js backend, Redis caching, and web/mobile dashboards to analyze temperature, pressure drop, flow rate, and power output, then validate the prototype against IAEA/OECD benchmarks.</p>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <h3>TÜBİTAK 2209-B | CompressM2M</h3>
-      <img src="https://img.shields.io/badge/Support_Status-Pending-orange?style=flat-square" alt="Support Status: Pending" />
-      <img src="https://img.shields.io/badge/Project_Status-Ongoing-brightgreen?style=flat-square" alt="Project Status: Ongoing" />
-      <p><strong>Title:</strong> Adaptive M2M Data Compression Protocol for Low-Power IoT Devices</p>
-      <p><strong>Summary:</strong> I am building a lightweight, lossless, adaptive compression protocol on ESP32-S3 to reduce payload size and energy usage in LoRaWAN and NB-IoT based M2M communication.</p>
-    </td>
-  </tr>
 </table>
 
 </div>
