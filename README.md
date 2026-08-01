@@ -41,20 +41,11 @@ I build scalable backend, mobile, and IoT products with clean architecture and r
 <table>
   <tr>
     <td align="center">
-      <h3>TÜBİTAK 2242 | DeepCompressLink</h3>
-      <img src="https://img.shields.io/badge/Support_Status-Pending-orange?style=flat-square" alt="Support Status: Pending" />
+      <h3>ICARUS</h3>
+      <img src="https://img.shields.io/badge/Support_Status-Pending-brightgreen?style=flat-square" alt="Support Status: Supporting by BYST Energy" />
       <img src="https://img.shields.io/badge/Project_Status-Ongoing-brightgreen?style=flat-square" alt="Project Status: Ongoing" />
-      <p><strong>Title:</strong> Delay-Tolerant Adaptive Data Compression Protocol for CubeSat Telemetry</p>
-      <p><strong>Summary:</strong> I am designing a DTN-compatible, stateless compression protocol for CubeSat and deep-space telemetry, and validating it in SimPy-based simulations across LEO, lunar orbit, and Mars scenarios.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>TEKNOFEST | ONYX Thermal-Hydraulic Analysis Software</h3>
-      <img src="https://img.shields.io/badge/Support_Status-Pending-orange?style=flat-square" alt="Support Status: Pending" />
-      <img src="https://img.shields.io/badge/Project_Status-Ongoing-brightgreen?style=flat-square" alt="Project Status: Ongoing" />
-      <p><strong>Title:</strong> Thermal-Hydraulic Analysis Software for SMR/MMR Cooling Loops and Reactor Core</p>
-      <p><strong>Summary:</strong> As Team ONYX, we are building a C++ simulation engine with a Node.js backend, Redis caching, and web/mobile dashboards to analyze temperature, pressure drop, flow rate, and power output, then validate the prototype against IAEA/OECD benchmarks.</p>
+      <p><strong>Title:</strong> B2B Solar Energy & Portfolio Management Platform</p>
+      <p><strong>Summary:</strong> ICARUS is a modern B2B SaaS platform tailored for the solar energy (PV) industry. It enables companies to manage their organizations, assign dynamic team roles, and seamlessly curate personalized product portfolios (inverters, panels, etc.) from a centralized, global hardware catalog with custom pricing and inventory tracking.</p>
     </td>
   </tr>
 </table>
